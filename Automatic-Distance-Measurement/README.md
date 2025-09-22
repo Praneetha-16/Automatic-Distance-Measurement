@@ -49,10 +49,7 @@ A **buzzer alert** is triggered when an object comes closer than 15 cm.
 
 ---
 
-## 📷 Demo (Optional)
-*(Add images or video of your project here once built)*
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
